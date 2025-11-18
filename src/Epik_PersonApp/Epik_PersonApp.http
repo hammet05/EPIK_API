@@ -1,0 +1,6 @@
+@Epik_PersonApp_HostAddress = http://localhost:5207
+
+GET {{Epik_PersonApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
